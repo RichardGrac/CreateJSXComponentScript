@@ -1,2 +1,10 @@
 # CreateJSXComponentScript
-Personal script to create a React Component Folder and Files structure
+Bash script to create the files structure for a React component
+
+### Structure
+
+  - FolderName
+  
+	  - index.jsx
+	  - index.test.jsx
+	  - index.css
